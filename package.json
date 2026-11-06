@@ -1,0 +1,12 @@
+{
+  "name": "wisp-server-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@wisp-js/server": "^1.1.0"
+  }
+}
